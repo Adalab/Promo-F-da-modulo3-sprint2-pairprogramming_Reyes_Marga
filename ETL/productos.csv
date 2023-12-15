@@ -1,0 +1,35 @@
+ID,Nombre_Producto,Categoría,Precio,Origen,Descripción
+A1,Pizza Margherita,Platos Preparados,8.99,Italia,Clásica pizza italiana con tomate, mozzarella fresca y albahaca.
+B2,Risotto de Champiñones,Platos Preparados,6.75,Italia,Risotto cremoso con champiñones frescos, una delicia italiana para disfrutar en casa.
+C3,Tiramisú,Postres,5.49,Italia,Postre clásico italiano con capas de bizcocho de café, mascarpone y cacao en polvo.
+D4,Panettone,Repostería,10.99,Italia,Pan dulce navideño italiano con frutas confitadas y pasas, un regalo tradicional en Italia.
+E5,Orecchiette,Productos Secos,4.29,Italia,Pequeñas pastas con forma de orecchiette ideales para salsas de tomate o pesto.
+F6,Polenta Tradicional,Harinas,3.75,Italia,Harina de maíz italiana para preparar la tradicional polenta, perfecta como acompañamiento.
+G7,Mozzarella di Bufala,Productos Lácteos,9.25,Italia,Mozzarella fresca elaborada con leche de búfala, suave y deliciosamente cremosa.
+H8,Pesto Genovese,Salsas,5.99,Italia,Una salsa italiana de albahaca, piñones, queso parmesano y aceite de oliva, perfecta para pastas.
+I9,Lasagna Bolognesa,Platos Preparados,7.49,Italia,Clásica lasaña con salsa boloñesa, bechamel y queso gratinado, lista para hornear.
+J10,Arroz Arborio,Productos Secos,4.89,Italia,Arroz de grano corto perfecto para risottos italianos, absorbe los sabores de forma exquisita.
+K11,Café Espresso, Café,6.49,Italia,Café espresso italiano con un aroma y sabor intenso, la esencia de la cultura del café en Italia.
+L12,Sardinas en Aceite de Oliva,Pescados en Conserva,3.99,Italia,Sardinas frescas en aceite de oliva, un bocado delicioso y saludable.
+M13,Pesto Rosso,Salsas,4.75,Italia,Una variante italiana del pesto con tomates secos, almendras y queso parmesano, perfecto para pastas.
+N14,Gnocchi de Patata,Productos Congelados,5.25,Italia,Gnocchi de patata italiana, ideales con salsa de tomate o crema.
+O15,Ravioli de Ricotta y Espinacas,Productos Congelados,6.75,Italia,Raviolis rellenos de ricotta y espinacas frescas, simplemente deliciosos.
+P16,Caponata,Salsas,4.25,Italia,Una clásica caponata siciliana con berenjenas, tomates, aceitunas y vinagre balsámico.
+Q17,Pasta de Trigo,Productos Secos,3.99,Italia,Deliciosa pasta de trigo durum italiana, ideal para platos de pasta tradicionales.
+R18,Salsa de Tomate Casera,Salsas,2.49,Italia,Elaborada con tomates italianos maduros, una receta tradicional que realza el sabor de tus platos.
+S19,Aceite de Oliva Virgen Extra,Aceites,9.99,Italia,Aceite de oliva prensado en frío de las mejores aceitunas italianas, perfecto para aderezos y cocinar.
+T20,Queso Parmesano,Productos Lácteos,7.89,Italia,El famoso queso italiano, madurado durante meses para obtener su sabor único y rico.
+U21,Salami Toscano,Embutidos,5.75,Italia,Salami de cerdo italiano curado con hierbas y especias, un acompañamiento perfecto para tablas de embutidos.
+V22,Prosciutto di Parma,Embutidos,12.45,Italia,Delicioso jamón curado, famoso por su sabor y textura, elaborado en la región de Parma.
+W23,Gelato de Limón,Helados,4.25,Italia,Gelato italiano cremoso con sabor a limón fresco, un postre refrescante y delicioso.
+X24,Cannoli,Dulces,3.99,Italia,Postre siciliano con masa crujiente rellena de crema de ricotta y chocolate, una delicia tradicional.
+Y25,Cacciatore,Embutidos,6.75,Italia,Salchichas de cerdo condimentadas con hierbas y especias, perfectas para aperitivos.
+Z26,Calzone,Pizzas,7.49,Italia,Pizza cerrada y horneada, rellena de queso, salsa de tomate y diferentes ingredientes, ¡un clásico italiano!
+AA27,Caponata di Melanzane,Entrantes,4.89,Italia,Entrante italiano con berenjenas, tomate, apio, alcaparras y vinagre, una mezcla de sabores.
+BB28,Cappelletti,Productos Secos,5.25,Italia,Pasta rellena parecida al ravioli, típica de la región de Emilia-Romaña, rellena de carne o queso.
+CC29,Carbonara,Platos Preparados,8.75,Italia,Pasta con salsa de huevo, queso, panceta y pimienta negra, una receta clásica de Roma.
+DD30,Carciofi Ripieni,Verduras,6.99,Italia,Alcachofas rellenas con pan rallado, ajo, perejil y queso, una delicia vegetariana.
+EE31,Casatiello,Repostería,9.45,Italia,Pan salado italiano con huevos, salami, queso y pimienta negra, típico de la Semana Santa.
+FF32,Cassata Siciliana,Postres,10.99,Italia,Tarta siciliana con capas de bizcocho, ricotta, frutas confitadas y chocolate, un postre festivo.
+GG33,Ciceri e Tria,Platos Preparados,5.89,Italia,Plato de pasta tradicional de Apulia con garbanzos y tria (fideos fritos), una combinación única.
+
