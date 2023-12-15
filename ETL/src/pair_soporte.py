@@ -8,7 +8,8 @@ def exploracion_csv(archivo):
     try: 
         dataframe=pd.read_csv(archivo, index_col=0)
     except: 
-        dataframe=pd.read_csv(archivo, sep=';', index_col=0)
+        df=pd.read_csv(archivo, sep=';', index_col=0)
+        dataframe=df.apply(pd.Series)
     
     display(dataframe.head())
 
