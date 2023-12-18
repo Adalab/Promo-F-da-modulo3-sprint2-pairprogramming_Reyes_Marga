@@ -13,6 +13,6 @@ for x in df.values:
     lista_tuplas_ventas
 # %%
 ## Hemos creado la base de datos en sql y también la tabla ventas. 
-
+#bbdd.creacion_bbdd_tablas(queries.query_tabla_ventas, 'AlumnaAdalab', 'pair_12')
 bbdd.insertar_datos(queries.query_insertar_ventas, 'AlumnaAdalab', 'pair_12', lista_tuplas_ventas)
 # %%
